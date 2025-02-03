@@ -4,3 +4,4 @@ Exemplo criado em 03/02/2025 na [aula sobre git e github](https://ipeadata-lab.g
 ![](https://ipeadata-lab.github.io/curso_r_intermediario_202501/images/github-edit-this-file.png)
 
 Minha alteração
+nova linha
