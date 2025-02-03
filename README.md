@@ -1,2 +1,5 @@
-# meu-primeiro-repositorio-03-02-2025
-Exemplo criado em 03/02/2025 na aula sobre git e github
+# Meu primeiro repositório
+Exemplo criado em 03/02/2025 na [aula sobre git e github](https://ipeadata-lab.github.io/curso_r_intermediario_202501/git-github.html).
+
+
+
